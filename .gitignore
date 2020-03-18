@@ -1,3 +1,4 @@
+/fluent/*.php
 .zephir
 compile.log
 compile-errors.log
